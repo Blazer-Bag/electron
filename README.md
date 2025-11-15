@@ -5,7 +5,7 @@
 💹 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
-> [!TIP]
+9:accessibility: > [!TIP]
 > Helpful advice for doing things better or more easily.
 
 > [!IMPORTANT]
